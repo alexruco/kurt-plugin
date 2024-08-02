@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Kurt Plugin
- * Description: A minimal internal crawler for WP websites.
+ * Description: An internal crawler for WP websites. Includes pages, posts, custom post types and sitemaps.
  * Version: 1.4
  * Author: Alex Ruco
  */

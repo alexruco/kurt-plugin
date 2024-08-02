@@ -2,7 +2,7 @@
 
 ## 📝 Description
 
-The Kurt Plugin is a minimalistic WordPress plugin designed to generate a JSON file containing links present in each page, post, CPT, or sitemap, along with the URLs where each link was found. It also checks if each URL is available, adding a ✅ true or ❌ false value to indicate its availability.
+The Kurt Plugin is a minimalistic WordPress plugin designed to internally crawl a website, generate a JSON file containing links present in each page, post, CPT, or sitemap, along with the URLs where each link was found. It also checks if each URL is available, adding a ✅ true or ❌ false value to indicate its availability.
 
 ## 🌟 Features
 
